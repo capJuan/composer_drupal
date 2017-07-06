@@ -1,7 +1,7 @@
 # Composer-git ignoring core 
 
 
-Here i trying to create an environment from a git repository that do not include core folder, and initial set up is manage with composer.
+Here I'm trying to create an environment from a git repository that do not include core folder, and managed with composer.
 
 ### Process
 - Clone repository.
