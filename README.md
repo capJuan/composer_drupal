@@ -3,7 +3,7 @@
 
 Here i trying to create an environment from a git repository that do not include core folder, and initial set up is manage with composer.
 
-###Process
+### Process
 - Clone repository.
 - Run 'composer update' to download dependencies including core.
 - Run a normal drupal installation process.
@@ -13,6 +13,6 @@ Here i trying to create an environment from a git repository that do not include
 - Untar the dbdump 'tar -zxvf [dbdump.tar.gz]' from resources folder
 - import the db 'mysql -h [db-host] -u [user] -p[pass] [db-name] < [dbdump-file].sql'
 
-###resources
+### Resources
 https://github.com/drupal-composer/drupal-project
 
